@@ -9,7 +9,7 @@ A white Atom syntax theme.
 ---
 
 ### CSS
-![CSS Preview](http://i.imgur.com/wDufqeN.png)
+![CSS Preview](http://i.imgur.com/7YjuBPT.png)
 ---
 
 ### CS
