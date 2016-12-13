@@ -15,3 +15,5 @@ A white Atom syntax theme.
 ### CS
 ![CS Preview](http://i.imgur.com/5TyyBU3.png)
 ---
+
+[Alpha] (https://atom.io/themes/alpha-syntax) : [Beta] (https://atom.io/themes/beta-syntax)
