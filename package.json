@@ -1,0 +1,18 @@
+{
+  "name": "alpha-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A white Atom syntax theme.",
+  "keywords": [
+    "syntax",
+    "white",
+    "light",
+    "monochrome",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/alpha-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
