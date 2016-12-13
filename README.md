@@ -1,4 +1,4 @@
-# beta-syntax theme
+# alpha-syntax theme
 
 A white Atom syntax theme.
 
